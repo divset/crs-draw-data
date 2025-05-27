@@ -1,0 +1,189 @@
+{
+  "lastUpdated": "2025-05-26",
+  "latest": {
+    "cec": {
+      "number": 347,
+      "date": "2025-05-13",
+      "name": "Canadian Experience Class",
+      "size": 500,
+      "crs": 547,
+      "program": "Canadian Experience Class"
+    },
+    "pnp": {
+      "number": 346,
+      "date": "2025-05-12",
+      "name": "Provincial Nominee Program",
+      "size": 511,
+      "crs": 706,
+      "program": "Provincial Nominee Program"
+    },
+    "healthcare": {
+      "number": 345,
+      "date": "2025-05-02",
+      "name": "Healthcare and social services occupations (Version 2)",
+      "size": 500,
+      "crs": 510,
+      "program": "Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+    },
+    "french": {
+      "number": 329,
+      "date": "2024-12-03",
+      "name": "French language proficiency (Version 1)",
+      "size": 800,
+      "crs": 466,
+      "program": "Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+    }
+  },
+  "recent": {
+    "cec": [
+      {
+        "number": 347,
+        "date": "2025-05-13",
+        "name": "Canadian Experience Class",
+        "size": 500,
+        "crs": 547,
+        "program": "Canadian Experience Class"
+      }
+    ],
+    "pnp": [
+      {
+        "number": 346,
+        "date": "2025-05-12",
+        "name": "Provincial Nominee Program",
+        "size": 511,
+        "crs": 706,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 343,
+        "date": "2025-04-28",
+        "name": "Provincial Nominee Program",
+        "size": 421,
+        "crs": 727,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 342,
+        "date": "2025-04-14",
+        "name": "Provincial Nominee Program",
+        "size": 825,
+        "crs": 764,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 340,
+        "date": "2025-03-17",
+        "name": "Provincial Nominee Program",
+        "size": 536,
+        "crs": 736,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 338,
+        "date": "2025-03-03",
+        "name": "Provincial Nominee Program",
+        "size": 725,
+        "crs": 667,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 336,
+        "date": "2025-02-17",
+        "name": "Provincial Nominee Program",
+        "size": 646,
+        "crs": 750,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 334,
+        "date": "2025-02-04",
+        "name": "Provincial Nominee Program",
+        "size": 455,
+        "crs": 802,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 331,
+        "date": "2025-01-07",
+        "name": "Provincial Nominee Program",
+        "size": 471,
+        "crs": 793,
+        "program": "Provincial Nominee Program"
+      },
+      {
+        "number": 328,
+        "date": "2024-12-02",
+        "name": "Provincial Nominee Program",
+        "size": 676,
+        "crs": 705,
+        "program": "Provincial Nominee Program"
+      }
+    ],
+    "healthcare": [
+      {
+        "number": 345,
+        "date": "2025-05-02",
+        "name": "Healthcare and social services occupations (Version 2)",
+        "size": 500,
+        "crs": 510,
+        "program": "Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+      }
+    ],
+    "french": [
+      {
+        "number": 329,
+        "date": "2024-12-03",
+        "name": "French language proficiency (Version 1)",
+        "size": 800,
+        "crs": 466,
+        "program": "Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+      }
+    ]
+  },
+  "trends": {
+    "cec": {
+      "average": 547,
+      "lowest": 547,
+      "highest": 547,
+      "total_draws": 1,
+      "last_draw_date": "2025-05-13",
+      "frequency_days": null
+    },
+    "pnp": {
+      "average": 720,
+      "lowest": 667,
+      "highest": 764,
+      "total_draws": 9,
+      "last_draw_date": "2025-05-12",
+      "frequency_days": 18
+    },
+    "healthcare": {
+      "average": 510,
+      "lowest": 510,
+      "highest": 510,
+      "total_draws": 1,
+      "last_draw_date": "2025-05-02",
+      "frequency_days": null
+    },
+    "french": {
+      "average": 466,
+      "lowest": 466,
+      "highest": 466,
+      "total_draws": 1,
+      "last_draw_date": "2024-12-03",
+      "frequency_days": null
+    }
+  },
+  "totalDraws": 12,
+  "processingInfo": {
+    "originalDraws": 348,
+    "filteredDraws": 12,
+    "drawTypes": [
+      "cec",
+      "pnp",
+      "healthcare",
+      "french"
+    ],
+    "dateRange": "6 months"
+  }
+}
